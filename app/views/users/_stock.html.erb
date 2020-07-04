@@ -4,4 +4,8 @@
     <strong>Name: </strong><%= @stock.name %>
     <strong>Price: </strong><%= @stock.last_price %>
   </div>
+<% else %>
+  <div class="results-block">
+    <%= render 'layouts/messages' %>
+  </div>
 <% end %>
