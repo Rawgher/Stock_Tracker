@@ -1,24 +1,10 @@
-# README
+# Rawgher's Stonks
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Application Description
+This is a udemy rails code along that allows a user to track up to 10 stocks, follow other users, and view stocks their friends are tracking
 
-Things you may want to cover:
 
-* Ruby version
+***
+## Deployed Site
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can either view the site by clicking the description at the top of the repository, or by clicking this [Heroku link](https://rawghers-stonks.herokuapp.com/).
